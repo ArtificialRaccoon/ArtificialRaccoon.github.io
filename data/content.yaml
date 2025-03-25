@@ -1,0 +1,120 @@
+BasicInfo:
+  FirstName: Bernard
+  LastName: Walker
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +1 613 400 6606
+    - Icon: fas fa-envelope
+      Info: business@bernardwalker.ca
+
+Profile: Blasting across the alkali flats in a jet-powered, monkey-navigated coffin, Bernard's partially animated corpse seeks employment sequestered in a prison among feline coworkers. Does he seek the adoration of his bipedal peers?<br><br><b>NAY!</b><br><br>This overripe carcass wishes only to be happy and within arms length of at least one quadruped mammal. Lay offerings of remote employment (cat treats also accepted) at my doorstop. If my cadaver rises from it's subterranean cave, and doesn't see it's shadow...
+
+Experience:
+  - Employer: ADGA Group Consultants
+    Place: Ottawa, Ontario
+    Positions:
+      - Title: Software Competency Manager
+        Date: Apr 2024 - Presnet
+        Details:
+          - As a Subject Matter and Information Technology expert, provided opinion, review, and consultation on the technological background of resources intended for bidding
+          - Consultation and review of 30+ successfully placed resources
+          - Establishing a software development competency framework
+          - Developing comprehensive training programs to enhance software development skills and address competency gaps
+          - Analyzing skill sets within the development team to identify areas for improvement and growth
+          - Collaboration with other Competency Managers to align competency development with organizational goals
+          - Maintained and updated documentation of training programs, best practices, and competency frameworks
+        Badges: ['Competency', 'Human Resources', 'Training']    
+      - Title: Senior Technical Archtect
+        Date: Jan 2021 - Present
+        Details:
+          - Modelling and Simulation Developer for the Bell CH-146 Griffon Mission Trainer
+          - Developed a prototype plugin, written in C++, for gRPC based communications within the simulation
+          - Developed a prototype plugin, written in C++, for retrieval of terrain/elevation data from remote Terrain Servers utilizing the Web Coverage Service (WCS) endpoints into DTED (Level 2) data
+          - Updated back-end plugin, written in C++, for the simulation of a Radar and Laser Warning System based on the RWLR v5 system from Bell Helicopter Textron
+          - Updated back-end plugin, written in C++, for the simulation of the Countermeasure Dispensing Systems (CMDS) based on the ALE-47 from Bell Helicopter Textron and BAE Systems    
+          - Team leader and Technical Architect for a desktop based Map extraction system using C#, WPF, GDAL, and ArcGIS Runtime (Maps)
+          - Developer and Technical Architect for an Android based Map extraction system using C#, MAUI, GDAL, and ArcGIS Runtime (Maps)
+          - Both Map Extraction Systems extract data from ArcGIS Server instances, as well as stand-alone WMS/WMTS/WFS/WCS Servers
+          - Extract Map Data to a variety of formats, including raster images (PNG, GeoTiff, JPEG), GeoPackages (Raster and Vector), TPK, MBTiles, and DTED (Levels 0 to 2)
+          - Extracted map data can be re-projected from its source projection, to a variety of compatible projections
+        Badges: ['C++', 'C#', 'ArcGIS', 'GDAL', 'GIS', 'Simulation', 'Agile']
+      - Title: Intermediate Technical Archtect
+        Date: Aug 2018 - Apr 2021
+        Details:
+          - Team leader and Technical Architect for a Map extraction system using C#, WPF, GDAL, and ArcGIS Runtime
+          - Map Extraction System extracts data from ArcGIS Server instances, as well as stand-alone WMS/WMTS/WFS/WCS Servers
+          - Extract Map Data to a variety of formats, including raster images (PNG, GeoTiff, JPEG), GeoPackages (Raster and Vector), TPK, MBTiles, and DTED (Levels 0 to 2)
+          - Downloaded data can be re-projected from its source projection, to a variety of compatible projections
+        Badges: ['C#', 'C++', 'ArcGIS', 'GDAL', 'GIS', 'Agile']
+      - Title: Senior Systems Software Analyst
+        Date: Sep 2011 - Aug 2018
+        Details:
+          - Lead programmer for a document collation system using C#, MS-SQL, and WPF
+          - Designed and developed a Windows Service for the execution of federated searches across multiple software domains (Sharepoint, dtSearch, etc)
+          - Developed a REST service using Windows Communication Framework (WCF) which converts documents (DOC, DOCX, PDF, etc) into HTML
+          - DownloadedDeveloped a REST service which operates as back-end storage for the AnnotatorJS (http://annotatorjs.org/) and Annotorious (http://annotorious.github.io/) javascript suites
+        Badges: ['C#', 'C++', 'dtSearch', 'Search', 'Agile']
+      - Title: Junior Programmer Analyst
+        Date: Oct 2008 - Sep 2011
+        Details:
+          - Lead the transition from Visual Studio Installer Projects to Windows Installer XML Projects
+          - Maintained and implemented various user interfaces for a variety of "reconnaissance" style reports. These interfaces implemented Microsoft Office OpenXml for the generation of printable and editable documents
+          - Developed two separate DotNet MAF Plugins for a 3rd party GIS Mapping Application
+        Badges: ['C#', 'GIS']
+      - Title: Senior Programmer
+        Date: Mar 2008 - Oct 2008
+        Details:
+          - Lead the transition from Office Automation to Office OpenXML for reporting/document generation
+        Badges: ['C#', 'OpenXML']
+      - Title: Junior Programmer
+        Date: May 2007 - Mar 2008
+        Details:
+          - Maintained and implemented various user interfaces for a variety of "reconnaissance" style reports. These interfaces implemented Microsoft Office Automation for the generation of printable and editable documents
+        Badges: ['C#']        
+      - Title: Software Tester
+        Date: Oct 2006 - May 2008
+        Details:
+          - Evaluated software against requirements
+          - Stress tested and performed requirements elicitation
+        Badges: ['IBM Rational Test']          
+Education:
+  - Course: MSc Computer Science
+    Place: University of New Brunswick, Fredericton, NB
+    Date: Sep 2004 - Aug 2006
+    Details: "Development of a Specification & Management Tool for Usability Evaluations of Mobile Systems"
+
+  - Course: <br>Diploma of University Teaching
+    Place: University of New Brunswick, School for Distance Education, Fredericton, NB
+    Date: Sep 2000 - May 2004
+    
+  - Course: <br>BSc Mathematics, Statistics, and Computer Science
+    Place: St. Francis Xavier University, Antigonish, NS
+    Date: Sep 2000 - May 2004
+
+Skills:
+  - Family: Programming
+    Items:
+      - C++
+      - C#
+      - SQL
+  - Family: Specialisations
+    Items:
+      - ArcGIS Runtime
+      - GDAL
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+
+Interests:
+  - Veganism
+  - Animal Rights
+  - Science Fiction
+  - Dungeons and Dragons
+
+Projects:
+  - Tetro
+
+Links:
+  - GitHub
